@@ -1,3 +1,3 @@
 # BankApp
 Advanced DOM Manipulation
-https://github.com/stefanm95/BankApp.git
+https://stefanm95.github.io/BankApp/
